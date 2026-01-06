@@ -1,6 +1,7 @@
 .mainimg {
+  text-align:center;
   margin-top: 40px;
-  display:block
+  display:block;
 }
 body {
   font-size: 20px;
