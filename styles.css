@@ -2,13 +2,16 @@ body {
   margin-top: 0px;
 }
 .red {
+  height: 100px;
   background: #FF0000;
   margin-top: 10px;
 }
 .green {
+  height: 100px;
   background: #008000;
 }
 .blue {
+  height: 100px;
   background: #00FF00.
 }
   
